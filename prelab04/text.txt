@@ -1,0 +1,2 @@
+g++ main.cpp Ev.cpp Oda.cpp -o program
+./program

@@ -1,0 +1,3 @@
+﻿  prelab_02.cpp
+C:\Users\OG\Desktop\prelab_02\prelab_02.cpp(56,13): warning C4101: 'target': yerel değişken başvurusu kaldırıldı
+  prelab_02.vcxproj -> C:\Users\OG\Desktop\prelab_02\x64\Debug\prelab_02.exe
